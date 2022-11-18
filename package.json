@@ -9,7 +9,7 @@
     "react-csv-reader": "^1.2.2",
     "react-dom": "^16.8.6",
     "react-motion": "^0.5.2",
-    "react-scripts": "3.0.1",
+    "react-scripts": "5.0.1",
     "react-simple-maps": "^0.12.1"
   },
   "scripts": {
